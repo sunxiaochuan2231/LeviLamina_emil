@@ -1,0 +1,2 @@
+# LeviLamina_emil
+LeviLamina插件加载器下通过lse编写的邮件插件
